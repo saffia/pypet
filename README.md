@@ -1,0 +1,2 @@
+# pypet
+Python - learning syntax
